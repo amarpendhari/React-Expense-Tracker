@@ -1,0 +1,44 @@
+$colone: #ff8a00;
+$coltwo: #da1b60;
+
+$size: 1.35rem;
+$color_: #7a7a8c;
+$ground: #1d1e22; // ffffff
+$border: #4c4f5a;
+
+$duration: 500;
+
+// for demo
+
+body {
+  font: 400 $size sans-serif;
+  color: $color_;
+  background: #18191c;
+}
+
+.Expenses {
+  position: relative;
+  padding: 20px;
+  display: flex;
+  max-width: 500px;
+  max-width: 500px;
+  margin: auto;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: $size / 3;
+  background-color: $ground;
+  box-shadow: 0 5px 30px rgba(darken($ground, 12%), 0.3);
+}
+.expItem {
+  display: flex;
+  padding: 5px 8px;
+  justify-content: space-between;
+  min-width: 250px;
+  margin: 5px;
+  background: #18191c;
+}
+.Graph {
+  -webkit-box-shadow: 0px 1px 18px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 1px 18px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 1px 18px 0px rgba(0, 0, 0, 0.75);
+}

@@ -1,0 +1,48 @@
+{
+  "expenses": [
+    {
+      "id": 8917.112855895037,
+      "title": "Veg.Crispy",
+      "amount": "180",
+      "type": "expenses",
+      "date": "2020-07-24T17:59:43.483Z"
+    },
+    {
+      "id": 4921.82543572375,
+      "title": "Bday Cake",
+      "amount": "450",
+      "type": "expenses",
+      "date": "2020-07-24T18:00:48.212Z"
+    },
+    {
+      "id": 1041.710219743337,
+      "title": "Gorilla Tripod",
+      "amount": "500",
+      "type": "expenses",
+      "date": "2020-07-24T18:02:53.851Z"
+    },
+    {
+      "id": 338.39595897434236,
+      "title": "Turf",
+      "amount": "200",
+      "type": "expenses",
+      "date": "2020-07-25T09:13:05.714Z"
+    }
+  ],
+  "savings": [
+    {
+      "id": 8699.239094730208,
+      "title": "Internship",
+      "amount": "2000",
+      "type": "savings",
+      "date": "2020-07-24T18:01:45.947Z"
+    },
+    {
+      "id": 9221.935197377785,
+      "title": "Gardening",
+      "amount": "300",
+      "type": "savings",
+      "date": "2020-07-24T18:03:17.891Z"
+    }
+  ]
+}
